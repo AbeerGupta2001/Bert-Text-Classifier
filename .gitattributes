@@ -1,2 +1,2 @@
-onnx_model/model.onnx filter=lfs diff=lfs merge=lfs -text
 *.onnx filter=lfs diff=lfs merge=lfs -text
+onnx_model/model.onnx filter=lfs diff=lfs merge=lfs -text
